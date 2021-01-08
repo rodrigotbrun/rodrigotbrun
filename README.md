@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Brun</h1>
-<h3 align="center">A passionate mobile developer from Brazil</h3>
+<h3 align="center">A full-stack developer from Brazil  (with 💙 to mobile development)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigotbrun&label=Profile%20views&color=0073ea&style=flat" alt="rodrigotbrun" /> </p>
 
