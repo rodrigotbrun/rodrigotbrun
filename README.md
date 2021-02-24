@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigotbrun/)](https://www.instagram.com/rodrigotbrun/)
 ---
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **React, PHP and Android**
 
